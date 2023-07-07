@@ -45,7 +45,7 @@ Tampilan struktur kode
 Kode yang di pakai saya lampirkan di bawah
 </p>
 
-index.html
+<p>index.html</p>
 
 ```html
 <!DOCTYPE html>
@@ -226,7 +226,7 @@ index.html
 </html>
 ```
 
-app.js
+<p>app.js</p>
 
 ```js
 const hamburger = document.querySelector('.header .nav-bar .nav-list .hamburger');
@@ -257,7 +257,7 @@ menu_item.forEach((item) => {
 
 ```
 
-LICENCES
+<p>LICENCES</p>
 
 ```LICENCES
 MIT License
@@ -284,7 +284,7 @@ SOFTWARE.
 
 ```
 
-style.css
+<p> style.css</p>
 
 ```css
 @import 'https://fonts.googleapis.com/css?family=Montserrat:300, 400, 700&display=swap';

@@ -32,6 +32,13 @@
 
  Tampilan web
 
+<hr>
+
+Tampilan gambar respon kustemer dari survai yang dilakukan.
+
+<hr>
+
+![11_Lab11Web](Gambar/3.png)
 
 <hr>
 
@@ -42,7 +49,7 @@ Tampilan struktur kode
 ![11_Lab11Web](Gambar/2.png)
 
 <p>
-Kode yang di pakai saya lampirkan di bawah
+Kode yang di pakai saya lampirkan di bawah ini.
 </p>
 
 <p>index.html</p>
